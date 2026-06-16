@@ -13,5 +13,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Salin seluruh kode project ke dalam kontainer
 COPY . .
 
-# Catatan: Kita tidak menulis CMD spesifik di sini karena perintah jalannya 
-# akan kita atur langsung di docker-compose.yml
+# Expose port Streamlit (default 8501)
+EXPOSE 8501
