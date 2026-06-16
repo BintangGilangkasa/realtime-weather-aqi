@@ -1,0 +1,6 @@
+kafka-python-ng
+requests
+streamlit
+pandas
+plotly
+streamlit-autorefresh
