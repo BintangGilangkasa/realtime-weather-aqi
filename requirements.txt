@@ -4,4 +4,4 @@ streamlit
 pandas
 plotly
 streamlit-autorefresh
-
+streamlit-plotly-events
